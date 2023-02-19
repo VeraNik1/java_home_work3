@@ -55,7 +55,7 @@ public class Main {
         System.out.println("Сгенерированный список: ");
         System.out.println(list);
         int[] result = mergeSort(intList);
-        System.out.println("Список после сортировки: ");
+        System.out.println("Список после сортировки слиянием: ");
         System.out.println(Arrays.toString(result));
 
     }
